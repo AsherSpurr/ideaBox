@@ -8,7 +8,7 @@ We made a web application in which users can log their "good ideas" with both a 
 - The user is able to add unlimited ideas to the DOM and scroll to see all of them 
 
 ### Installation Instructions:
-User will have to navigate to our repository on github, fork the repository and copy the SSH key, run the git clone SSH key command on their local terminal and then open the text editor by cding into the cloned directory and running code ., finally to open the website the user will run the command open index.html
+Open this deploy link to see it in action https://asherspurr.github.io/ideaBox/
 
 ### Preview of App:
  ![screen shot of Idea Box Web App](./assets2/Screenshot-IdeaBox.png)
